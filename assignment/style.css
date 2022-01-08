@@ -13,10 +13,13 @@ img {
 }
 h2 {
   align-items: flex-start;
+  color: green;
 }
 h3 {
   align-items: flex-end;
+  color: red;
 }
 .info {
-  justify-content: center
+  justify-content: center;
+  backround-color: #f2f2f2;
 }
